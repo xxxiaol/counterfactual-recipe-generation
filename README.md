@@ -1,4 +1,5 @@
-# Source code and data for *Counterfactual Recipe Generation: Exploring Models’ Compositional Generalization Ability in a Realistic Scenario* (EMNLP2022 main conference paper)
+# Counterfactual Recipe Generation
+Source code and data for *Counterfactual Recipe Generation: Exploring Models’ Compositional Generalization Ability in a Realistic Scenario* (EMNLP2022 main conference paper)
 
 ---
 
