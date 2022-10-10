@@ -17,6 +17,7 @@ Task data:
  - `changing_ingres.txt`: 50 pairs of (original ingredient, changed ingredient)
  - `base_recipes.txt`: 2500 base recipes, each line is in the format of `base dish \t target dish \t base recipe`.
  - `recipe_corpus.txt`: 1,520,327 recipes of other dishes for model training. Link: https://drive.google.com/file/d/1gZqW_opPRA4ewTpetsIzOIJxYO-znKpu/view?usp=sharing
+
 L2 evaluation data:
  - `glossary_dict.pkl`: glossary of ingredient classes, verb classes, and tool classes
  - `parsing_data.pkl`: data used in parsing recipes into actions
@@ -25,6 +26,7 @@ L2 evaluation data:
 ## Code
 The code is in the `code/` folder.
 Please change EVAL_TEXT_PATH to the path of generated recipes, and WORD_EMBEDDING_PATH to the word embedding path.
+
 L1 evaluation (coverage of ingredients and extent of preservation): 
 ```
 python L1_eval.py
