@@ -16,7 +16,7 @@ Task data:
  - `dish_pairs.txt`: 50 pairs of (base dish, target dish)
  - `changing_ingres.txt`: 50 pairs of (original ingredient, changed ingredient)
  - `base_recipes.txt`: 2500 base recipes, each line is in the format of `base dish \t target dish \t base recipe`.
- - `recipe_corpus.txt`: 1,520,327 recipes of other dishes for model training. Link: https://drive.google.com/file/d/1gZqW_opPRA4ewTpetsIzOIJxYO-znKpu/view?usp=sharing
+ - `recipe_corpus.txt`: 1,520,327 recipes of other dishes for model training. Link: https://drive.google.com/file/d/16_X3I3mt-eIaVx5g1ZxA0uks_fD_IBiy/view?usp=sharing
 
 L2 evaluation data:
  - `glossary_dict.pkl`: glossary of ingredient classes, verb classes, and tool classes
