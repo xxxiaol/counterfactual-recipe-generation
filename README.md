@@ -1,6 +1,7 @@
 # Counterfactual Recipe Generation
 Source code and data for *Counterfactual Recipe Generation: Exploring Models’ Compositional Generalization Ability in a Realistic Scenario* (EMNLP2022 main conference paper)
 
+Project website: https://counterfactual-recipe-generation.github.io/
 ---
 
 ## Dependencies
@@ -39,7 +40,12 @@ python L2_eval.py
 ## Citation
 Please cite our paper if this repository inspires your work.
 ```
-to be added
+@article{liu2022counterfactual,
+  title={Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario},
+  author={Liu, Xiao and Feng, Yansong and Tang, Jizhi and Hu, Chengang and Zhao, Dongyan},
+  journal={arXiv preprint arXiv:2210.11431},
+  year={2022}
+}
 ```
 
 ## Contact
